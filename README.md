@@ -55,15 +55,6 @@ student_activity_planner.exe  # On Windows
 
 ---
 
-## 📌 How It Works
-Launch the program through terminal or command prompt.  
-
----
-
-## 📸 Sample Screens
-
-
-
 ---
 
 ## 📈 Project Status
